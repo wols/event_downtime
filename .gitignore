@@ -1,0 +1,4 @@
+# event_downtime.git/.gitignore
+
+/doc/*.html
+/t/
