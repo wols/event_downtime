@@ -1,1 +1,3 @@
 = event_downtime
+
+Event Plugin Command for use with Icinga2
