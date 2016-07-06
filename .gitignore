@@ -1,4 +1,4 @@
 # event_downtime.git/.gitignore
 
 /doc/*.html
-/t/
+/doc/images/diagram/*.cache
