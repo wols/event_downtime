@@ -34,7 +34,7 @@ Es gibt Szenarien in denen die *Nichterreichbarkeit aber durchaus normal* ist, u
 * Netzwerk-Drucker
 ** Energiesparperioden außerhalb der Arbeitszeiten
 
-INFO: Wenn Du `event_downtime` für einen der genannten Fälle brauchen kannst, klicke auf "Star" - Danke!
+TIP: Wenn Du `event_downtime` für einen der genannten Fälle brauchen kannst, klicke auf "Star" - Danke!
 
 == Host-Szenarios
 
@@ -135,7 +135,7 @@ image::icinga_director-06.png[title="Icinga Director - Config preview"]
 
 image::icinga_director-07.png[title="Icinga Director - Icinga Commands"]
 
-==== ?
+==== TODO
 
 image::icinga_director-08.png[title="Icinga Director - Template tree | host-active"]
 
@@ -143,7 +143,7 @@ image::icinga_director-09.png[title="Icinga Director - Template tree | Custom fi
 
 image::icinga_director-10.png[title="Icinga Director - Template tree | Custom fields: host-active"]
 
-==== ?
+==== TODO
 
 image::icinga_director-11.png[title="Icinga Director - Icinga Hosts | raspi"]
 
@@ -151,11 +151,13 @@ image::icinga_director-12.png[title="Icinga Director - Icinga Hosts | raspi"]
 
 image::icinga_director-13.png[title="Icinga Director - Icinga Hosts | Config preview: raspi"]
 
-==== ?
+==== TODO
 
 image::icinga_director-14.png[title="Overview - Host 'raspi'"]
 
 image::icinga_director-15.png[title="Overview - Tactical Overview | Hosts 'raspi'"]
+
+==== Wird fortgesetzt...
 
 == Links
 
