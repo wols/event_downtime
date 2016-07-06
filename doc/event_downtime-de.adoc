@@ -50,6 +50,7 @@ Mit `event_downtime` lässt sich ein http://docs.icinga.org/icinga2/latest/doc/m
 . weiter mit 1.
 
 .Ablauf
+ifndef::env-github[]
 [ditaa, target="diagram/flow", png]
 ----
       +------------------------------------------+
@@ -66,6 +67,10 @@ Mit `event_downtime` lässt sich ein http://docs.icinga.org/icinga2/latest/doc/m
       +------DOWN->| SCHEDULE_HOST_DOWNTIME    +-+
                    +---------------------------+
 ----
+endif::[]
+ifdef::env-github[]
+image::diagram/flow.png[]
+endif::[]
 
 ----
 COMMAND[UP]="DEL_DOWNTIME_BY_HOST_NAME;<host_name>"
