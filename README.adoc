@@ -2,4 +2,4 @@
 
 Event Plugin Command for use with Icinga2
 
-See link:doc/event_downtime-de.adoc[Documentation (German)].
+See link:https://wols.github.io/time/2016/07/07/Icinga2-Event-Downtime.html[HOWTO (German)].
