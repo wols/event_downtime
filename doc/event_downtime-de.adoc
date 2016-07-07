@@ -17,10 +17,6 @@ Event Plugin Command zur Benutzung mit Icinga2
 
 toc::[]
 
-== LIESMICH
-
-NOTE: `../README.adoc`
-
 == Anwendungsfälle
 
 https://www.icinga.org/[Icinga, window="_blank"] und andere Monitoring-Systeme werden überwiegend zur Überwachung dauerhaft erreichbarer Komponenten eingesetzt.
